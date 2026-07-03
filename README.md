@@ -35,7 +35,7 @@ Eine interaktive Karte für **Voyagers of Nera** mit allen wichtigen Ressourcen,
 
 ---
 
-## Live-Position (optional)
+## Live-Position (optional) COMMING Soon!!!!
 
 Für die Live-Spielerposition wird die **UE4SS-Mod** benötigt:
 
@@ -46,7 +46,7 @@ Ohne Mod funktioniert die Karte vollständig — nur ohne Live-Position.
 
 ---
 
-## Shortcuts
+## Shortcuts Comming Soon
 
 | Taste | Funktion |
 |-------|----------|
