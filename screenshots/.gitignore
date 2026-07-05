@@ -1,0 +1,7 @@
+# Alles ignorieren außer den 4 Karten-Screenshots
+*
+!.gitignore
+!Gebiet 1.png
+!Gebiet 2.png
+!Gebiet 3.png
+!Ingame.png
