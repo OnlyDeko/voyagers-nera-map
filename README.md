@@ -3,8 +3,6 @@
 Eine interaktive Karte für **Voyagers of Nera** mit allen wichtigen Ressourcen, Locations und optionaler Live-Spielerposition.
 > 🇩🇪 Deutsch · [🇬🇧 English below](#english)
 > Erstellt von [OnlyDeko](https://github.com/OnlyDeko) · [Steam](https://steamcommunity.com/profiles/76561198138606543)
-Erstellt von [OnlyDeko](https://github.com/OnlyDeko) · [Steam](https://steamcommunity.com/profiles/76561198138606543)
-
 ---
 
 ## ⚠️ Work in Progress
@@ -34,7 +32,7 @@ Erstellt von [OnlyDeko](https://github.com/OnlyDeko) · [Steam](https://steamcom
 **[Neueste Version herunterladen](../../releases/latest)**
 
 `VoyagersMap.exe` herunterladen und starten — keine Installation nötig, keine weiteren Dateien erforderlich.
-`VoyagersMap.exe` herunterladen und starten — keine Installation nötig.
+
 
 ---
 
@@ -60,7 +58,7 @@ Erstellt von [OnlyDeko](https://github.com/OnlyDeko) · [Steam](https://steamcom
 3. Fertig — Daten werden automatisch unter `%LocalAppData%\VoyagersMap\` gespeichert
 
 **Voraussetzungen:** Windows 10 / 11 (64-bit) · Microsoft Edge oder WebView2 Runtime (auf Windows 11 vorinstalliert, auf Windows 10 ggf. automatisch installiert)
-**Voraussetzungen:** Windows 10 / 11 (64-bit) · WebView2 Runtime (auf Windows 11 vorinstalliert)
+
 
 ---
 
