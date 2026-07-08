@@ -97,7 +97,6 @@ Spiel im **Randlos-Fenster-Modus** starten, damit das Overlay sichtbar bleibt.
 ## Rechtliches
 
 Dieses Tool ist ein inoffizielles Fan-Projekt ohne Verbindung zu den Entwicklern von Voyagers of Nera.
-Inoffizielles Fan-Projekt ohne Verbindung zu den Entwicklern von Voyagers of Nera.
 Alle Spielinhalte und Assets sind Eigentum der jeweiligen Rechteinhaber.
 
 Siehe [DISCLAIMER.md](DISCLAIMER.md) für den vollständigen rechtlichen Hinweis.
